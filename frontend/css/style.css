@@ -176,7 +176,7 @@ section {
 
 .countdown ul {
   display: flex;
-  gap: 2rem;
+  gap: 1rem;
 }
 .countdown .clock-item {
   list-style: none;
@@ -186,7 +186,7 @@ section {
 .countdown .clock-item .count-number {
   background: var(--accent-color);
   color: var(--font-color);
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-weight: 700;
   font-family: var(--font-secondary);
   padding: 1rem;
@@ -261,7 +261,7 @@ section {
 .mint-btn {
   display: flex;
   align-items: center;
-  gap: 2rem;
+  gap: 1rem;
   margin: auto;
 }
 
