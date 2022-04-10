@@ -242,16 +242,16 @@ section {
   justify-content: space-between;
   width: 100%;
   text-align: center;
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
 }
 
 .mint-qty {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 1rem;
+  padding: 0.5rem;
   background-color: var(--accent-color);
-  border-radius: 2.5px;
+  border-radius: 2px;
 }
 
 .mint-qty > span {
@@ -261,7 +261,7 @@ section {
 .mint-btn {
   display: flex;
   align-items: center;
-  gap: 1rem;
+  gap: 0.5rem;
   margin: auto;
 }
 
@@ -283,7 +283,7 @@ section {
   display: flex;
   justify-content: space-between;
   width: 100%;
-  padding: 1rem 0 2rem;
+  padding: 0.5rem 0 2rem;
 }
 
 .total-price-container p {
@@ -301,17 +301,17 @@ section {
 }
 
 .minted-container h1 {
-  font-size: 2rem;
-  margin-bottom: 2rem;
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
 }
 
 .minted-container h2 {
   font-size: 1.5rem;
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
 }
 
 .minted-container p {
-  margin: 1rem 0;
+  margin: 0.5rem 0;
 }
 
 /* SLIDDER */
