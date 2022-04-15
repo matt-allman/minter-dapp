@@ -81,11 +81,11 @@ header .container {
   text-shadow: 2px 2px 0 var(--accent-color);
   font-style: italic;
   margin: 2rem 0;
-  font-size: 1rem;
+  font-size: 2rem;
 }
 
 .not-connected p {
-  font-size: 1.1rem;
+  font-size: 0.8rem;
   font-family: var(--font-secondary);
   line-height: 1.8;
 }
