@@ -213,16 +213,16 @@ section {
   text-shadow: 2px 2px 0 var(--accent-color);
   font-style: italic;
   margin: 0.5rem 0;
-  font-size: 1rem;
+  font-size: 2rem;
   text-align: center;
 }
 
 .countdown h2 {
-  margin-top: 1rem;
+  margin-top: 0.5rem;
 }
 
 .countdown > p {
-  font-size: 1rem;
+  font-size: 0.7rem;
   font-family: var(--font-secondary);
   margin-bottom: 0.5rem;
   text-align: center;
