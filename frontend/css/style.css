@@ -186,10 +186,10 @@ section {
 .countdown .clock-item .count-number {
   background: var(--accent-color);
   color: var(--font-color);
-  font-size: 0.8rem;
+  font-size: 1.0rem;
   font-weight: 700;
   font-family: var(--font-secondary);
-  padding: 0.5rem;
+  padding: 0.4rem;
   display: inline-block;
   width: 100%;
   text-align: center;
