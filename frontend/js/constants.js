@@ -1,5 +1,5 @@
-const contractAddress = "0x41CDa49F318226d0BAD90a38DD0a8f9C9ac52158"; //Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby or polygon
+const contractAddress = "0x4E62c1FaD3135495068DeEF64bF13317baA8762D"; //Replace with your own contract address
+const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Baby Elephant Club NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
